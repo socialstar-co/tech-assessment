@@ -1,6 +1,6 @@
-# SocialStar Technical Assessment
+# Socialstar Technical Assessment
 
-Welcome to the SocialStar technical assessment! This is a basic tech check to ensure you can work with our EmberJS-based technology stack. Please follow the steps below carefully.
+Welcome to the Socialstar technical assessment! This is a basic tech check to ensure you can work with our EmberJS-based technology stack. Please follow the steps below carefully.
 
 ## Prerequisites
 
@@ -228,13 +228,13 @@ a:focus {
 
 Navigate to `app/templates/index.hbs` and remove the `<WelcomeFlame />` component.
 
-### Step 7: Add SocialStar Logo
+### Step 7: Add Socialstar Logo
 
-Add the SocialStar logo at the top of your page, center-aligned:
+Add the Socialstar logo at the top of your page, center-aligned:
 
 ```html
 <div class="text-center">
-  <img src="https://mvp.socialstar.co/favicon.png" alt="SocialStar Logo" class="mb-4">
+  <img src="https://mvp.socialstar.co/favicon.png" alt="Socialstar Logo" class="mb-4">
 </div>
 ```
 
@@ -281,7 +281,7 @@ npm run build
 ## Expected Deliverable
 
 - A working Ember application with:
-  - SocialStar logo displayed at the top (center-aligned)
+  - Socialstar logo displayed at the top (center-aligned)
   - Bootstrap accordion component implemented below the logo
   - Custom styling applied from the provided SCSS
   - Clean, professional layout
